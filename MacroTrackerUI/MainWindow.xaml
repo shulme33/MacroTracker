@@ -1,0 +1,91 @@
+﻿<Window x:Class="MacroTrackerUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MacroTrackerUI"
+        mc:Ignorable="d"
+        Title="Macro Tracker" Height="450" Width="800" Icon="fat-man.png">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="20"/>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="*"/>
+            <RowDefinition Height ="100"/>
+            <RowDefinition Height ="20"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Image x:Name="ImgProfilePic" Height="40" Width="40" Grid.Column="0" Grid.Row="1" 
+                   Source="./DevImages/peyton.png" Margin="0"/>
+            <Label x:Name="LblProfileName" Grid.Column="1" Grid.Row="1" Content="Katelyn" 
+                   FontSize="24" FontWeight="Bold" Margin="10, 0,0,0"/>
+            <Image x:Name="ImgAddNewItem" Height="30" Width="30" Grid.Column="2" Grid.Row="1" 
+                   Source="./DevImages/add-new-item.png" Margin="0" MouseDown="ImgAddNewItem_MouseDown"/>
+            <Image x:Name="ImgSearchItem" Height="30" Width="30" Grid.Column="3" Grid.Row="1" 
+                   Source="./DevImages/search-item.png" Margin="0" MouseDown="ImgSearchItem_MouseDown"/>
+            <Image x:Name="ImgEditItem" Height="30" Width="30" Grid.Column="4" Grid.Row="1" 
+                   Source="./DevImages/edit-item.png" Margin="0" MouseDown="ImgEditItem_MouseDown"/>
+            <Image x:Name="ImgDeleteItem" Height="30" Width="30" Grid.Column="5" Grid.Row="1" 
+                   Source="./DevImages/delete-item.png" Margin="0" MouseDown="ImgDeleteItem_MouseDown"/>
+        </Grid>
+
+        <Grid Grid.Column="3" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Label Grid.Column="0" Grid.Row="0" Content="Food Eaten" 
+                   FontSize="24" FontWeight="Bold" Margin="10, 0,0,0"/>
+            <Image x:Name="ImgPrevRunDate" Height="30" Width="30" Grid.Column="1" Grid.Row="0" 
+                   Source="./DevImages/date-prev-day.png" Margin="0" MouseDown="ImgPrevRunDate_MouseDown"/>
+            <Label x:Name="LblRunDate" Grid.Column="2" Grid.Row="0" Content="1/1/1900" 
+                   FontSize="20" FontWeight="Bold" Margin="10, 0,0,0" HorizontalAlignment="Center"/>
+            <Image x:Name="ImgNextRunDate" Height="30" Width="30" Grid.Column="3" Grid.Row="0" 
+                   Source="./DevImages/date-next-day.png" Margin="0" MouseDown="ImgNextRunDate_MouseDown"/>
+        </Grid>
+
+        <DataGrid Grid.Column="3" Grid.Row="2" />
+
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="BtnExecuteAction" Grid.Column="1" Grid.Row="4" Content="Do Action" 
+                Click="BtnExecuteAction_Click"/>
+        </Grid>
+    </Grid>
+</Window>

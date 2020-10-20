@@ -1,0 +1,29 @@
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\bin\Debug\MacroTrackerUI.exe.config
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\bin\Debug\MacroTrackerUI.exe
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\bin\Debug\MacroTrackerUI.pdb
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\App.g.cs
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI_MarkupCompile.cache
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI_MarkupCompile.lref
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MainWindow.baml
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.g.resources
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.Properties.Resources.resources
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.exe
+C:\Users\Sam\Desktop\LearningC#\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.pdb
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\bin\Debug\MacroTrackerUI.exe.config
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\bin\Debug\MacroTrackerUI.exe
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\bin\Debug\MacroTrackerUI.pdb
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\App.g.cs
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI_MarkupCompile.cache
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI_MarkupCompile.lref
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MainWindow.baml
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.g.resources
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.Properties.Resources.resources
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.exe
+C:\Users\Sam\Desktop\Files\1 - Coding\Personal-Projects\Github-Repos\MacroTracker\MacroTrackerUI\obj\Debug\MacroTrackerUI.pdb
